@@ -1,0 +1,15 @@
+{
+    "average_scores": {
+        "sari": 47.526016170463706,
+        "bleu": 51.047960530589606
+    },
+    "length_analysis": {
+        "average_original_length": 20.85632183908046,
+        "average_simplified_length": 18.413793103448278,
+        "compression_ratio": 0.8828878478919813
+    },
+    "distribution": {
+        "sari_std": 20.348667991058488,
+        "bleu_std": 25.50466684629588
+    }
+}
